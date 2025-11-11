@@ -1,0 +1,51 @@
+Main Program
+│
+├── Housekeeping Module
+│     └── Input number of hours
+│
+├── Detail Loop Module
+│     ├── Input wholesale material cost
+│     ├── Compute total job cost
+│     └── Display total job cost
+│
+└── End-of-Program Module
+      └── Display “End of program.”
+
+Main Program
+
+Global Variables:
+  hours
+  wholesaleCost
+  totalCost
+
+Constant:
+  HOURLY_RATE = 30
+
+Call Housekeeping Module
+
+While hours != 0
+    Call Detail Loop Module
+    Call Housekeeping Module
+End While
+
+Call End-of-Program Module
+
+
+Housekeeping Module:
+    Display "Enter projected hours (0 to end): "
+    Input hours
+
+
+Detail Loop Module:
+    Display "Enter wholesale cost of materials: "
+    Input wholesaleCost
+
+    laborCost = hours * HOURLY_RATE
+    materialRetailCost = wholesaleCost * 1.2
+    totalCost = laborCost + materialRetailCost
+
+    Display "Total projected cost: $" + totalCost
+
+
+End-of-Program Module:
+    Display "End of program."

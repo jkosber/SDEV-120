@@ -1,0 +1,58 @@
+Main Program
+|
+|-- Housekeeping Module
+|     |-- Input: Customer's last name
+|     |-- Output: Prompt for last name
+|
+|-- Detail Loop Module
+|     |-- Input: bathrooms + other rooms
+|     |-- Output: service charge + prompt next name
+|
+|-- End-of-Job Module
+      |-- Output: "Program complete."
+
+Main Program:
+
+Global Variables:
+  lastName : string
+  numBathrooms : integer
+  numOtherRooms : integer
+  serviceCharge : integer
+
+Constants:
+  BATHROOM_CHARGE = 15
+  OTHER_ROOM_CHARGE = 10
+  BASE_CHARGE = 40
+
+Call Housekeeping Module
+
+While lastName != "ZZZZ"
+    Call Detail Loop Module
+End While
+
+Call End-of-Job Module
+
+
+Housekeeping Module:
+  Display "Enter customer's last name (ZZZZ to end): "
+  Input lastName
+
+
+Detail Loop Module:
+  Display "Enter number of bathrooms: "
+  Input numBathrooms
+
+  Display "Enter number of other rooms: "
+  Input numOtherRooms
+
+  serviceCharge = BASE_CHARGE
+                   + (numBathrooms * BATHROOM_CHARGE)
+                   + (numOtherRooms * OTHER_ROOM_CHARGE)
+
+  Display "Service charge: $" + serviceCharge
+
+  Call Housekeeping Module
+
+
+End-of-Job Module:
+  Display "Program complete."
