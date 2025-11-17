@@ -1,0 +1,28 @@
+Good security practices are super important in programming. They help keep users and companies safe from potential hackers and data breaches/leaks. It's easy to try and get a program to just work and not consider the security risks it can pose. Ignoring security can cause huge problems later on. I personally have some experience in the topic of security since I've worked on a couple of coding projects. The most common thing I've ran into with early web development is not making your web pages secure. Devs will forget to use HTTPS and just use HTTP which is not secure for things like transactions. I have only worked on smaller projects, so a lot of security concerns did not need to be taken into consideration.
+
+
+
+
+Some basic security tips devs should follow include checking user input, encrypting personal information, and limiting access to systems. Input validation can help to stop SQL injections. Encryption helps to keep your personal and sensitive info safe even if a data breach happens. Adding access controls helps to make sure the right people see sensitive information. It also makes sure that unauthorized access to specified parts of a system are prevented. If security practices are not followed, it can result in some serious issues. The Equifax data breach in 2017 is an example of this. Hackers stole personal info from over 140 million people because of a flaw in the software they use. The company ended up paying millions in fines and lost a ton of publicity.
+
+
+
+
+Overall, security should be part of the software development process from the start of a project. It should not be considered at the end of the project because at that point the system will most likely be filled with vulnerabilities. 
+
+
+
+
+References:
+
+https://owasp.org/
+
+https://www.ftc.gov/
+
+
+
+
+
+
+
+
