@@ -1,6 +1,6 @@
 # SDEV-120 — Computing Logic
 
-My Fall 2025 coursework at Ivy Tech Kokomo — late-start 8-week section (Nov 2 – Dec 21). Grade: A (Dean's List). SDEV 120 is the foundational logic and programming course — pseudocode, flowcharts, UML, then Python (IDLE) implementation in modules 6–8. It sits in the Software Development program but counts toward my Cyber Security & Information Assurance Technical Certificate. Repo holds weekly assignments across the modules — pseudocode and flowcharts, group-project artifacts, the Python work from M6–8, plus a few class-meeting practice scripts.
+My Fall 2025 coursework at Ivy Tech Kokomo — late-start 8-week section (Nov 2 – Dec 21). Grade: A (Dean's List). SDEV 120 is the foundational logic and programming course — pseudocode, flowcharts, UML, then Python (IDLE) implementation in modules 6–8. It sits in the Software Development program but counts toward my Cyber Security & Information Assurance Technical Certificate. Repo holds weekly assignments across the modules — pseudocode and flowcharts, group-project files, the Python work from M6–8, plus a few class-meeting practice scripts.
 
 ## Tools
 
@@ -24,8 +24,6 @@ Pseudocode/  Standalone practice scripts (Daily Rent Cost, Making Breakfast, Mil
 Class2InClassPractice.py, Class3InClassPractice.py, Class4inClassPractice.py
 SDEV120 Pay Calc.py        # Pay-calculator exercise
 ```
-
-> Heads up: Module 8 (Functions in Python, Defining Computer Files, Group Project Final, Final Exam) is part of the official course but isn't archived here — only modules with uploaded artifacts are in the repo.
 
 ## Module walkthrough
 
