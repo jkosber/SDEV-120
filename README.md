@@ -1,41 +1,6 @@
 # SDEV-120 — Computing Logic
 
-My Fall 2025 coursework for **Ivy Tech SDEV 120**, taken as a late-start 8-week section at Ivy Tech Kokomo (Nov 2 – Dec 21, 2025). SDEV 120 sits in the Software Development program but counts as a foundational requirement toward my Cyber Security & Information Assurance Technical Certificate. This repo is the dump of weekly assignments across all eight modules — pseudocode and flowcharts, group-project artifacts, the Python work that shows up in modules 6 through 8, plus a few class-meeting practice scripts.
-
-## Course information
-
-| Field            | Detail                                                                                |
-| :--------------- | :------------------------------------------------------------------------------------ |
-| Course number    | SDEV 120                                                                              |
-| School / program | Information Technology — Software Development                                         |
-| Credit hours     | 3                                                                                     |
-| Contact hours    | Lecture: 3                                                                            |
-| Effective date   | 2024-02-29 (course outline revision)                                                  |
-| Prerequisites    | College-level English readiness; STEM Math Route 2 readiness or QUANT Math readiness  |
-| Term             | Fall 2025 — late-start 8-week section, Nov 2 – Dec 21, 2025                           |
-| Final grade      | A (Dean's List)                                                                       |
-
-## Catalog description
-
-> Introduces the student to algorithms, algorithm development, and implementation. Students will utilize flowcharting / UML (Unified Modeling Language) as tools to design / document computer logic. Students will explore the organization and operation of a simple Von Neumann computer system. Included areas of study are base numbering systems, logical and relational operators. Students will implement simple scripts using structured programming techniques (e.g. sequence, conditional, repetition structures). Other concepts covered are order of precedence, data representation, logic gates, and scripting. Students will practice skills such as listening, team building, work ethic, communications, and documentation. Concepts will be demonstrated using UML, basic scripting, and simple programming code.
-
-## What you're supposed to be able to do by the end
-
-1. Use flowcharts, pseudocode, and UML diagrams to express algorithms and document software design.
-2. Use logical and relational operators, control structures (sequence, selection, repetition), and modularity to build simple programs.
-3. Apply test and debug strategies to simple programs.
-4. Read a simple program and explain what it does — variables, expressions, I/O, control flow, functions.
-5. Convert numeric data between binary, decimal, and hexadecimal.
-6. Apply hex and binary to real computing — numbers, ASCII / Unicode characters, memory addresses, MAC addresses, IP addressing, color codes, images, sound, video.
-7. Identify where different programming and scripting languages get used.
-8. Compare software development methodologies (SDLC, Iterative, Prototyping).
-9. Talk through the reasons for secure programming and secure design.
-10. Describe the components of a simple Von Neumann computer.
-11. Use logic gates (AND, OR, NOT, NAND, NOR, XOR, XNOR) and combine them into simple logic circuits.
-
-## Topical content
-
-Algorithms and algorithm development · Logic development · Math concepts · Numbering systems (binary, decimal, hex) · Basic programming control structures · Flowcharting and pseudocode · Relational and logical operators · Order of precedence · Truth tables · Scripting logic structures · Logic gate theory · UML · Von Neumann architecture.
+My Fall 2025 coursework at Ivy Tech Kokomo — late-start 8-week section (Nov 2 – Dec 21). Grade: A (Dean's List). SDEV 120 is the foundational logic and programming course — pseudocode, flowcharts, UML, then Python (IDLE) implementation in modules 6–8. It sits in the Software Development program but counts toward my Cyber Security & Information Assurance Technical Certificate. Repo holds weekly assignments across the modules — pseudocode and flowcharts, group-project artifacts, the Python work from M6–8, plus a few class-meeting practice scripts.
 
 ## Tools
 
