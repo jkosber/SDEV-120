@@ -13,17 +13,16 @@ My Fall 2025 coursework at Ivy Tech Kokomo — late-start 8-week section (Nov 2 
 ## Repository layout
 
 ```
-SDEV120/
-  Module1/  Dev-tool install; pseudocode + flowchart symbols; Von Neumann
-  Module2/  SDLC / modularization / program design; variables + arithmetic flowchart; security discussion
-  Module3/  ASCII / Unicode; memory, network addresses, logic gates; number-systems quiz
-  Module4/  Programming-language survey; testing & debugging; understanding structures; group-project check
-  Module5/  Applying basic formulas; UML use-case diagrams; structured programming; ethics discussion
-  Module6/  Python IDLE fundamentals; relational comparison operators; AND / OR; group-project check
-  Module7/  Arrays; loop-based decision-making; Python loops
-  Pseudocode/  Standalone practice scripts (Daily Rent Cost, Making Breakfast, Miles Per Gallon)
-  Class2InClassPractice.py, Class3InClassPractice.py, Class4inClassPractice.py
-  SDEV120 Pay Calc.py        # Pay-calculator exercise
+Module1/  Dev-tool install; pseudocode + flowchart symbols; Von Neumann
+Module2/  SDLC / modularization / program design; variables + arithmetic flowchart; security discussion
+Module3/  ASCII / Unicode; memory, network addresses, logic gates; number-systems quiz
+Module4/  Programming-language survey; testing & debugging; understanding structures; group-project check
+Module5/  Applying basic formulas; UML use-case diagrams; structured programming; ethics discussion
+Module6/  Python IDLE fundamentals; relational comparison operators; AND / OR; group-project check
+Module7/  Arrays; loop-based decision-making; Python loops
+Pseudocode/  Standalone practice scripts (Daily Rent Cost, Making Breakfast, Miles Per Gallon)
+Class2InClassPractice.py, Class3InClassPractice.py, Class4inClassPractice.py
+SDEV120 Pay Calc.py        # Pay-calculator exercise
 ```
 
 > Heads up: Module 8 (Functions in Python, Defining Computer Files, Group Project Final, Final Exam) is part of the official course but isn't archived here — only modules with uploaded artifacts are in the repo.
