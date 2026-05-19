@@ -40,10 +40,6 @@ SDEV120/
 - **Pseudocode/** — Three small Python exercises that drill problem decomposition: daily rent cost, making breakfast (steps as procedures), miles per gallon.
 - **Root `.py` files** — In-class practice from class meetings 2, 3, 4, and the Pay Calc exercise.
 
-## Outcome
-
-Finished Fall 2025 with an A (Dean's List). Counts toward the Cyber Security & Information Assurance Technical Certificate at Ivy Tech Kokomo.
-
 ## Related repos
 
 - [SVAD-111-Linux-Virtualization](https://github.com/jkosber/SVAD-111-Linux-Virtualization) — Bash scripting and Linux administration build directly on the control-flow practice from here.
